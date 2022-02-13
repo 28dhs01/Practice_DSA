@@ -6,6 +6,7 @@ public class SmallestLetter {
         char target = 'c' ;
         char ans = smallestLetter(letters,target);
         System.out.println(ans);
+
     }
     static char smallestLetter(char[]letters, char target){
         int s = 0 ;
