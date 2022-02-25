@@ -13,6 +13,7 @@ public class BoxWeight extends Box{
         this.weight = weight;
     }
 
+
     public BoxWeight(int h, int w, int l, int weight) {
         super(h, w, l); // super is used to call parent constructor
         this.weight = weight;
@@ -22,6 +23,17 @@ public class BoxWeight extends Box{
     }
 
     public BoxWeight() {
+        super() ;
         this.weight = -1 ;
+    }
+
+    public BoxWeight(int side, int weight) {
+        super(side);
+        this.weight = -1 ;
+    }
+
+//    @Override
+        static void greeting(){
+        System.out.println("I am in boxWeight class");
     }
 }

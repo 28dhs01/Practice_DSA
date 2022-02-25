@@ -16,9 +16,9 @@ public class BoxMain {
         // Below reference variable is of parent class and object created is of child class
         // so the doubt I am facing is that whose variables I can use
         // I can use variables of reference type only
-        Box box5 = new BoxWeight(10,7,13,20);
-//        System.out.println(box5.weight); I can't use this
-        System.out.println(box5.h);
+//        Box box5 = new BoxWeight(10,7,13,20);
+////        System.out.println(box5.weight); I can't use this
+//        System.out.println(box5.h);
 
         // box6 can use variables of BoxWeight class
         // that is h, w, l and weight
@@ -26,7 +26,27 @@ public class BoxMain {
         // hence error
 //        BoxWeight box6 = new Box(7,10,12);
 
+//        BoxPrice box7 = new BoxPrice(7,10,1000);
+//        System.out.println(box7.h);
+//        System.out.println(box7.cost);
+//
+////        box7 and box8 are perfect eg. of hierarchical inheritance
+////        both have same parent as BoxWeight class
+//        BoxColor box8 = new BoxColor(10,20,"red") ;
+//        System.out.println(box8.color);
 
+//      here I am looking for static methods can be overridden or not
+//        static methods are object independent
+//        overriding is object dependent
+//        hence static methods can't be overridden
+        Box box9 = new BoxWeight();
+//        first of all greeting is static method so what i have written below should be avoided
+//        making obj is not required
+//        can be directly called from class itself
+        box9.greeting();
+//        now above one is showing greeting msg of box class not boxWeight class
+//        why?
+//        static methods are independent of obj 
 
     }
 }

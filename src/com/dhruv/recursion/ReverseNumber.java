@@ -3,7 +3,7 @@ package com.dhruv.recursion;
 public class ReverseNumber {
 //    static int ans = 0;
     public static void main(String[] args) {
-        int n = -81 ;
+        int n = 1_53_42_36_469 ;
 //        reverseNumber(n);
 //        System.out.println(ans);
 
@@ -18,8 +18,19 @@ public class ReverseNumber {
 //        System.out.println(ans2);
 
         // using no. of digits
-        int finalAns = reverseNumber2(n);
-        System.out.println(finalAns);
+//        int finalAns = reverseNumber2(n);
+//        System.out.println(finalAns);
+
+//        looking what I do in iteration and then apply same concept here
+        if( n<0 ){
+            n = -n;
+            int revNum = reverseNumber3(n,0);
+            revNum = -revNum ;
+            System.out.println(revNum);
+        }else{
+            int revNum = reverseNumber3(n,0);
+            System.out.println(revNum);
+        }
     }
 
 //    private static void reverseNumber(int n) {
@@ -57,5 +68,19 @@ public class ReverseNumber {
         // body and calls
         int rem = n%10 ;
         return (int) (rem*Math.pow(10,digits-1) + helper(n/10,digits-1));
+    }
+    static int reverseNumber3 (int n , long revNum ){
+//        base case
+        if( n==0 ){
+            return (int)revNum ;
+        }
+//        body
+        int lastDigit = n%10 ;
+        revNum = revNum*10 ;
+        if( revNum>Integer.MAX_VALUE){
+            return 0 ;
+        }
+        revNum = revNum+lastDigit ;
+        return reverseNumber3(n/10,revNum);
     }
 }

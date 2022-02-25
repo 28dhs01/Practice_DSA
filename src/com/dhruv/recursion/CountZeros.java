@@ -2,9 +2,9 @@ package com.dhruv.recursion;
 
 public class CountZeros {
     public static void main(String[] args) {
-        int n = 30204 ;
+        int n = 302040 ;
 //        int ans = count( n );
-        int ans = efficientCount(n,0);
+        int ans = count2(n);
         System.out.println(ans);
     }
 
@@ -38,5 +38,21 @@ public class CountZeros {
             return efficientCount(num/10,count);
         }
     }
+    static int count2(int n){
+//        base case
+        if( n== 0){
+            return 0 ;
+        }
+//        body
+        int lastDigit = n%10 ;
+        if( lastDigit == 0 ){
+            return 1+count2(n/10);
+        }else{
+            return count2(n/10);
+        }
+    }
 
+    public static class SortedOrNot {
+
+    }
 }

@@ -3,8 +3,9 @@ package com.dhruv.recursion;
 public class BinarySearch {
     public static void main(String[] args) {
         int [] arr = {2,6,8,14,20};
-        int target = 2 ;
-        System.out.println(bs(arr,target,0,arr.length-1));
+        int target = 14 ;
+        int ans = bs(arr, target, 0,arr.length-1);
+        System.out.println(ans);
     }
     static int bs( int []arr, int target, int s ,int e){
         // base condition
@@ -23,4 +24,5 @@ public class BinarySearch {
             return bs(arr, target,s,m-1);
         }
     }
+
 }

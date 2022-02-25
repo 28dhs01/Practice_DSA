@@ -17,6 +17,7 @@ public class LinearSearch {
 //        ArrayList<Integer> ansList = linearSearchWithDuplicates(arr, target ,0,list);
         ArrayList<Integer> ansList = linearSearchWithDuplicates(arr, target, 0);
         System.out.println(ansList);
+
     }
     static boolean isPresent(int[]arr, int target,int curIdx) {
         int size = arr.length;

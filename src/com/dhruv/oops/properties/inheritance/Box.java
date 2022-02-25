@@ -28,4 +28,7 @@ public class Box {
         this.w = other.w ;
         this.l = other.l ;
     }
+    static void greeting(){
+        System.out.println("hey , I am in box class");
+    }
 }
