@@ -4,13 +4,11 @@ import java.util.Arrays;
 
 public class MergeSort {
     public static void main(String[] args) {
-        int []arr = {5,2,6,4,7,3,2,1};
+        int []arr = {4,3,7,6,5,9};
 //        mergeSortInPlace(arr, 0,arr.length-1);
 //        System.out.println(Arrays.toString(arr));
         int []sortedArray = mergeSort(arr) ;
         System.out.println(Arrays.toString(sortedArray));
-
-
     }
     static void  mergeSortInPlace(int []arr, int s, int e){
         // base case
@@ -92,4 +90,5 @@ public class MergeSort {
         }
         return mix ;
     }
+
 }

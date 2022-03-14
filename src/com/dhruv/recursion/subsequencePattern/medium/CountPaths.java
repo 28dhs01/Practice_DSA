@@ -1,10 +1,11 @@
-package com.dhruv.recursion.backtracking;
+package com.dhruv.recursion.subsequencePattern.medium;
 
 public class CountPaths {
     public static void main(String[] args) {
-        int ans  = pathCount(3,3);
-        System.out.println(ans);
-        printPaths("",3,3);
+//        int ans  = pathCount(3,3);
+//        System.out.println(ans);
+//        printPaths("",3,3);
+
     }
     static int pathCount(int r, int c){
         // base case

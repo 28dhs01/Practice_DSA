@@ -5,7 +5,7 @@ public class SkipString {
         // First task is to skip apple from given string
         // Second task is to skip app not apple
 
-        String str = "apapplenoteappten";
+        String str = "pdapplenkdappks";
         String ans  = skipApple("",str);
         System.out.println(ans);
         String ans2 = skipAppNotApple("",str);

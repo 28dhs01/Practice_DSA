@@ -7,12 +7,15 @@ public class Subsequence {
 
         //ArrayList<String> ans = subSeq("" ,"abc",new ArrayList<>());
 //        ArrayList<String> ans = subSeq2("" ,"abc");
-        ArrayList<String> ans = subSeqAscii("" ,"abc",new ArrayList<>());
-        System.out.println(ans);
+//        ArrayList<String> ans = subSeqAscii("" ,"abc",new ArrayList<>());
+//        System.out.println(ans);
 
-//        char ch = 'b' ;
-//        int val = (int)(ch) ;
-//        System.out.println("a"+val);
+        ArrayList<String> res = subAscii("","ab");
+        System.out.println(res);
+
+
+        
+
     }
     static ArrayList<String> subSeq(String p, String up, ArrayList<String> list){
         if( up.isEmpty() ){
@@ -54,6 +57,25 @@ public class Subsequence {
         subSeqAscii(p+val,up.substring(1),list);
         subSeqAscii(p,up.substring(1),list);
         return list ;
+    }
+    static ArrayList<String> subAscii(String p, String up){
+//        base case
+        if(up.isEmpty()){
+            ArrayList<String> list = new ArrayList<>();
+            list.add(p);
+            return list ;
+        }
+//        body
+        char ch = up.charAt(0);
+        int ascii = ch+ 0 ;
+        ArrayList<String> f = subAscii(p+ch,up.substring(1));
+        ArrayList<String> s = subAscii(p+ascii,up.substring(1));
+        ArrayList<String> t = subAscii(p,up.substring(1));
+        f.addAll(s);
+        f.addAll(t);
+        return f ;
+
+
     }
 
 }
