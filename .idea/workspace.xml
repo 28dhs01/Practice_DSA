@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b72c76c-1810-4277-a6f2-9da2d52c719c" name="Default Changelist" comment="14march2022">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/arrays/easy/MinOrMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/arrays/medium/HouseRobber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/arrays/medium/JumpGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/arrays/medium/ProductOfArrayAfterSelf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/arrays/medium/RotateArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/arrays/medium/SetMatrixZeros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/basicProblems/PalindromeOrNot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/cycleSortQuestions/FindDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/formulas/FiboFormula.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/formulas/Number_of_digits_base_b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/CLL$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/CLL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/DLL$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/DLL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/LL$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/LL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/assignmentQuestions/easy/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/assignmentQuestions/easy/ReverseLL$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/assignmentQuestions/easy/ReverseLL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/assignmentQuestions/easy/convertBinaryIntoInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/practice_questions/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/practice_questions/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/linkedList/practice_questions/ReverseUsingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/maths/Pascal_tria_n_row_sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/maths/xor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/exceptions_and_errors/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/exceptions_and_errors/MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/generics/CustomArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/generics/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/abstractClasses/Daughter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/abstractClasses/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/abstractClasses/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/abstractClasses/Son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/NiceCarEg/ElectricEngine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/NiceCarEg/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/NiceCarEg/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/NiceCarEg/Music.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/NiceCarEg/MusicPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/NiceCarEg/NiceCar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/NiceCarEg/PowerEngine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/outro/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/outro/Father.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/outro/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/outro/Mother.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/primeEg/Brakes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/primeEg/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/primeEg/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/primeEg/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/interfaces/primeEg/MusicPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/multipleInheritance/Parent1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/abstraction/multipleInheritance/Parent2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/encapsulation/object_demo/ObjectDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/encapsulation/packageA/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/encapsulation/packageA/Shapes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/encapsulation/packageA/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/encapsulation/packageB/Hexagon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/encapsulation/packageB/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/inheritance/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/inheritance/BoxColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/inheritance/BoxMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/inheritance/BoxPrice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/inheritance/BoxWeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/polymorphism/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/polymorphism/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/polymorphism/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/polymorphism/Numbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/polymorphism/Shapes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/polymorphism/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/oops/properties/polymorphism/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/assignments/easy/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/assignments/easy/FirstUppercaseInString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/assignments/easy/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/assignments/easy/LengthOfString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/assignments/easy/MaxMinInArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/assignments/easy/NEqualsAPowerX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/assignments/easy/NaturalSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/assignments/easy/PowerOf2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/assignments/easy/PrimeOrNot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/assignments/easy/ProductOf2Num.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/assignments/easy/ReverseString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/assignments/easy/SumOfDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/assignments/easy/SumTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/CountSteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/CountZeros$SortedOrNot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/CountZeros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/LinearSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/NQueens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/NTo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/OneToN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/PalindromeOrNot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/PalindromeString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/Permutations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/ProductOfDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/RBS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/ReverseNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/Subsequences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/SumOfDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/nTo1Then1Ton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/basics/sortedOrNot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/pattern1/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/pattern1/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/pattern1/Triangle1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/pattern1/Triangle2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/subsequencePattern/basics/DiceRoll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/subsequencePattern/basics/LetterCombinations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/subsequencePattern/basics/Permutations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/subsequencePattern/basics/PermutationsString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/subsequencePattern/basics/SkipCharacter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/subsequencePattern/basics/SkipString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/subsequencePattern/basics/Subsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/subsequencePattern/basics/Subset.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/subsequencePattern/medium/CountPaths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/subsequencePattern/medium/MazeWithObstacles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/subsequencePattern/medium/PrintPaths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/recursion/subsequencePattern/medium/PrintPathsWithDiagonals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/AggressiveCows.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/AlmostSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/BS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/BookAllocation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/Ceiling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/DivideChocolates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/FirstAndLast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/Floor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/InfiniteSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/MountainArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/RBS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/RBSWithDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/RotationCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/searching/SmallestLetter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/sortingAlgos/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/sortingAlgos/CycleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/sortingAlgos/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/sortingAlgos/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/sortingAlgos/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/sortingAlgos/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/custom_stack/CustomStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/custom_stack/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/BruteforceCelebrity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/BruteforceHistogram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/CelebrityProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/CountReversals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/DeleteMidOfStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/InsertElementAtBottom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/LargestHistogramArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/MaximumRectangleInBinaryMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/NextSmallerElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/RedundantBraces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/ReverseStackUsingRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/ReverseString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/SortAStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/TwoStacksInArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stacks_ds/questions/ValidParenthesis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stringsAndStringBuilders/assingment/easy/PalindromeString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stringsAndStringBuilders/assingment/easy/ReversePrefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stringsAndStringBuilders/assingment/easy/ValidPalindromeII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stringsAndStringBuilders/assingment/medium/MaximumNumberOfRemovals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stringsAndStringBuilders/assingment/medium/MultiplyStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stringsAndStringBuilders/assingment/medium/NextGreaterElementIII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stringsAndStringBuilders/assingment/medium/RepeatedStringMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stringsAndStringBuilders/assingment/medium/SwapAdjacentLRString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice DSA/com/dhruv/stringsAndStringBuilders/assingment/medium/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/arrays/easy/MinOrMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/arrays/medium/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/oops/exceptions_and_errors/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/oops/exceptions_and_errors/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/assignments/easy/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/assignments/easy/FirstUppercaseInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/assignments/easy/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/assignments/easy/LengthOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/assignments/easy/MaxMinInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/assignments/easy/NEqualsAPowerX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/assignments/easy/NaturalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/assignments/easy/PowerOf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/assignments/easy/PrimeOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/assignments/easy/ProductOf2Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/assignments/easy/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/assignments/easy/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/assignments/easy/SumTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/pattern1/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/basics/PermutationsString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/basics/Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/medium/CountPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/medium/MazeWithObstacles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/medium/PrintPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/medium/PrintPathsWithDiagonals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/sortingAlgos/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/sortingAlgos/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/custom_stack/CustomStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/custom_stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/CelebrityProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/CountReversals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/DeleteMidOfStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/InsertElementAtBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/LargestHistogramArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/MaximumRectangleInBinaryMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/NextSmallerElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/RedundantBraces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/ReverseStackUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/SortAStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/TwoStacksInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/ValidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stringsAndStringBuilders/assingment/easy/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stringsAndStringBuilders/assingment/easy/ReversePrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stringsAndStringBuilders/assingment/easy/ValidPalindromeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stringsAndStringBuilders/assingment/medium/MaximumNumberOfRemovals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stringsAndStringBuilders/assingment/medium/MultiplyStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stringsAndStringBuilders/assingment/medium/NextGreaterElementIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stringsAndStringBuilders/assingment/medium/RepeatedStringMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dhruv/stringsAndStringBuilders/assingment/medium/SwapAdjacentLRString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/arrays/medium/JumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/arrays/medium/JumpGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/arrays/medium/ProductOfArrayAfterSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/arrays/medium/ProductOfArrayAfterSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/arrays/medium/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/arrays/medium/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/arrays/medium/SetMatrixZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/arrays/medium/SetMatrixZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/CountSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/CountSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/CountZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/CountZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/NTo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/NTo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/OneToN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/OneToN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/PalindromeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/PalindromeOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/PalindromeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/ProductOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/ProductOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/RBS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/RBS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/Subsequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/Subsequences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/nTo1Then1Ton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/nTo1Then1Ton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/sortedOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/basics/sortedOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/pattern1/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/pattern1/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/pattern1/Triangle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/pattern1/Triangle2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/basics/DiceRoll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/basics/DiceRoll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/basics/LetterCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/basics/LetterCombinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/basics/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/basics/Permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/basics/SkipString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/basics/SkipString.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="210RNrYE3VvqEjAXNsNoSkD2c4p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/dhruv/arrays/medium" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/dhruv/arrays/medium" />
+      <recent name="$PROJECT_DIR$/src/com/dhruv/recursion/basics" />
+      <recent name="$PROJECT_DIR$/src/com/dhruv/oops/properties/abstraction/interfaces/NiceCarEg" />
+      <recent name="$PROJECT_DIR$/src/com/dhruv/oops/properties/abstraction/multipleInheritance" />
+      <recent name="$PROJECT_DIR$/src/com/dhruv/recursion" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dhruv.stringsAndStringBuilders.assingment.easy" />
+      <recent name="com.dhruv.oops.properties.encapsulation" />
+      <recent name="com.dhruv.recursion" />
+      <recent name="com.dhruv.oops.properties.abstraction.interfaces.NiceCarEg" />
+      <recent name="com.dhruv.oops.properties.abstraction.interfaces.outro" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MaximumRectangleInBinaryMatrix">
+    <configuration name="MaximumRectangleInBinaryMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dhruv.stacks_ds.questions.MaximumRectangleInBinaryMatrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dhruv.stacks_ds.questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MazeWithObstacles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dhruv.recursion.subsequencePattern.medium.MazeWithObstacles" />
+      <module name="Practice DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dhruv.recursion.subsequencePattern.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NEqualsAPowerX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dhruv.recursion.assignments.easy.NEqualsAPowerX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dhruv.recursion.assignments.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NaturalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dhruv.recursion.assignments.easy.NaturalSum" />
+      <module name="Practice DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dhruv.recursion.assignments.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerOf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dhruv.recursion.assignments.easy.PowerOf2" />
+      <module name="Practice DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dhruv.recursion.assignments.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MaximumRectangleInBinaryMatrix" />
+      <item itemvalue="Application.MazeWithObstacles" />
+      <item itemvalue="Application.NaturalSum" />
+      <item itemvalue="Application.PowerOf2" />
+      <item itemvalue="Application.NEqualsAPowerX" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NEqualsAPowerX" />
+        <item itemvalue="Application.PowerOf2" />
+        <item itemvalue="Application.NaturalSum" />
+        <item itemvalue="Application.MazeWithObstacles" />
+        <item itemvalue="Application.MaximumRectangleInBinaryMatrix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b72c76c-1810-4277-a6f2-9da2d52c719c" name="Default Changelist" comment="" />
+      <created>1637075981974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637075981974</updated>
+    </task>
+    <task id="LOCAL-00001" summary="13feb2022">
+      <created>1644770757716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644770757716</updated>
+    </task>
+    <task id="LOCAL-00002" summary="13feb2022">
+      <created>1645761824177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645761824177</updated>
+    </task>
+    <task id="LOCAL-00003" summary="14march2022">
+      <created>1647271048768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647271048768</updated>
+    </task>
+    <task id="LOCAL-00004" summary="14march2022">
+      <created>1647271228540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647271228540</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="13feb2022" />
+    <MESSAGE value="14march2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="14march2022" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="16" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="28" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dhruv/searching/FirstAndLast.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dhruv/basicProblems/PalindromeOrNot.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dhruv/stringsAndStringBuilders/assingment/medium/NextGreaterElementIII.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dhruv/recursion/subsequencePattern/basics/Subsequence.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/TwoStacksInArray.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/ValidParenthesis.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/SortAStack.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dhruv/stacks_ds/questions/CountReversals.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
